@@ -1,0 +1,6 @@
+{
+  "name": "HireMe Market - On-Demand Gigs & Home Services",
+  "description": "Book vetted neighborhood specialists in minutes with zero upfront fees. On-demand gigs, verified pros, and instant dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
